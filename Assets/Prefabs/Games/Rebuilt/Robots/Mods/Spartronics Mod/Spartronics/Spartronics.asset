@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be1409438a6844eea96767966da7413b, type: 3}
+  m_Name: Spartronics
+  m_EditorClassIdentifier: 
+  teamNumber: 4915
+  teamName: Spartronics
+  robotImage: {fileID: 0}
+  mainRobot:
+    displayName: Spartronics
+    robotPrefab: {fileID: 5741145367584108495, guid: 14efab6340dfa3045a5da151b5e9e22d,
+      type: 3}
+    mainMenuPrefab: {fileID: 1170219302006875430, guid: 83984d61e24b1ea48b65ebde8d14d540,
+      type: 3}
+    spawnSelectionPrefab: {fileID: 5613493596402295403, guid: f0e1983ba370db644a72dcb120af7629,
+      type: 3}
+    preloadGamePiece: {fileID: 0}
+    tutorialCards:
+    - {fileID: 1185310487037145466, guid: aac92d9b1ef726f469b82c7ea6a596d7, type: 3}
+    - {fileID: 5954779225172670624, guid: 89521a51ebbade34a8e52e03bd70d232, type: 3}
+    - {fileID: 5142250838742305075, guid: 55a8605fc7024934db6fd236e72b4bef, type: 3}
+  alternateRobots: []
